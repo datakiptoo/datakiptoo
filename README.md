@@ -1,7 +1,7 @@
 - Hi there,👋, I'm Victor Kiptoo
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on blockchain development
+- 💞️ I’m looking to collaborate on artificial intelligence
 - 📫 How to reach me bettvictor0964@gmail.com
 
 <!---
