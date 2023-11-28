@@ -1,6 +1,5 @@
 - Hi there,👋, I'm Victor Kiptoo
-- I’m interested in Python/ML/Djang0
-- I’m currently learning Data Analytics
+- I’m interested in Python/ML/Django
 - How to reach me bettvictor0964@gmail.com
 
 <!---
